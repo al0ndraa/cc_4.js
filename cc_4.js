@@ -49,3 +49,7 @@ for (let key in products[0])
 //Step7
 for (let [key, value]of Object.entries(products[1]))
     {console.log(`${key}: ${value}`)};
+for (let [key, value]of Object.entries(products[2]))
+    {console.log(`${key}: ${value}`)};
+for (let [key, value]of Object.entries(products[3]))
+    {console.log(`${key}: ${value}`)};
