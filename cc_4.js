@@ -1,9 +1,9 @@
 //Step2
 let products = [
-{name: "Sandals", category: "shoes", price: 500, inventory: 2},
-{name: "Pizza", category: "food", price: 5, inventory: 3},
+{name: "Sandals", category: "shoes", price: 500, inventory: 5},
+{name: "Pizza", category: "food", price: 5, inventory: 2},
 {name: "Laptop", category: "electronics", price: 1000, inventory: 1},
-{name: "Paddleboard", category: "beach", price: 150, inventory: 4},
+{name: "Paddleboard", category: "beach", price: 150, inventory: 3},
 ];
 
 //Step3
